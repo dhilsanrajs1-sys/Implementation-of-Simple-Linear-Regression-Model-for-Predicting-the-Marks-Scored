@@ -20,7 +20,6 @@ Program to implement the simple linear regression model for predicting the marks
 Developed by: DHILSANRAJ S 
 RegisterNumber: 212225230058 
 */
-```
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -109,6 +108,8 @@ plt.title("Simple Linear Regression: Predicting Marks")
 plt.legend()
 plt.grid(True)
 plt.show()
+```
+
 
 ## Output:
 <img width="992" height="766" alt="Screenshot 2026-02-02 104137" src="https://github.com/user-attachments/assets/7c528bd2-e50a-4813-9429-a7420844f99c" />
